@@ -12,7 +12,7 @@ I'm a backend engineer and system design expert with a passion for building scal
 
 ## My tech stack
 
-- Programming languages: Python, Clojure, PHP, Java, Swift, Kotlin
+- Programming languages: Python, Go (golang), Clojure, PHP, Java, Swift, Kotlin
 - Databases: Mysql, Postgresql, Mongodb, Firebase cloud firestore, Firebase realtime db, Sqlite
 - Frameworks and libraries: Flask, FastAPI, Django, Symphony, Laravel, Luminus
 - Cloud platforms: AWS, GCP, Azure
